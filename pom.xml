@@ -6,7 +6,7 @@
 	<artifactId>CalculatorApp</artifactId>
 	<version>1.0</version>
 	<url>http://maven.apache.org</url>
-	<dependencdies>
+	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
